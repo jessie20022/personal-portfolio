@@ -13,18 +13,19 @@ body {
 
 h1 {
   color: black;
-  margin-left: 3.5rem;
+  margin-left: 8rem;
 }
 h2 {
-  margin-left: 1rem;
+  margin-left: 5.5rem;
 }
 
 h3 {
-  margin-left: 3.5rem;
+  margin-left: 8rem;
 }
 
 p {
-  margin-left: 3.5rem;
+  margin-left: 8rem;
+  margin-right: 6.5rem;
 }
 
 a {
