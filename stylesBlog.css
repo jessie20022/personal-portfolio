@@ -15,11 +15,16 @@ h1 {
   color: black;
   margin-left: 2.5rem;
 }
+
 h2 {
-  margin-left: 2.5rem;
+  margin-left: 0rem;
 }
 
 h3 {
+  margin-left: 2.5rem;
+}
+
+p {
   margin-left: 2.5rem;
 }
 
